@@ -305,14 +305,18 @@ footer h2 {
 .list {
 	padding: 1em;
 	margin-top: -1em;
+	
 }
 
 .list-text {
 	float: right;
+	padding-right: 2em;
+	padding-left: 2em;
 }
 
 .list-text ul {
 	list-style: none;
+	padding: 0;
 }
 
 .list-text a {
