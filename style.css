@@ -286,6 +286,7 @@ footer {
 	background-color: #252525;
 	position: relative;
 	overflow: auto;
+	bottom: 0;
 
 }
 
@@ -325,6 +326,9 @@ footer h2 {
 	footer {
 		display: flex;
 		flex-direction: column;
+		overflow: visible;
+		position: relative;
+		padding-bottom: 10em; 	
 
 	}
 	.footer-text {
@@ -332,8 +336,10 @@ footer h2 {
 	}
 	.list {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
 		position: relative;
 		top: 10em;
+		left: 50%;
+		transform: translate(-50%);
 	}
 }
