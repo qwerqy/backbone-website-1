@@ -309,7 +309,7 @@ footer h2 {
 }
 
 .list-text {
-	float: right;
+	/*float: right;*/
 	padding-right: 2em;
 	padding-left: 2em;
 }
