@@ -29,23 +29,20 @@ body {
 	color: white;
 }
 
-#greencheese {
-	/*background-image: url(img/twitch.jpg);
-	background-size: cover;*/
+#greencheese.p {
+
 	padding-top:10em!important;
 	padding-left: 2em!important;
 }
 
-#qwerqy {
-	/*background-image: url(img/twitch.jpg);
-	background-size: cover;*/
+#qwerqy.p {
+
 	padding-top:10em!important;
 	padding-left: 2em!important;
 }
 
-#fractaldude {
-	/*background-image: url(img/twitch.jpg);
-	background-size: cover;*/
+#fractaldude.p {
+
 	padding-top:10em!important;
 	padding-left: 2em!important;
 }
